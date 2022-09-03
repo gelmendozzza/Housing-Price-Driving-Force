@@ -1,1 +1,2 @@
-# Housing Price Driving Force: Statistical Analysis and Variables Affecting Price
+# Housing Price Driving Force
+Statistical Analysis and Variables Affecting Price
